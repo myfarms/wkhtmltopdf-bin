@@ -1,0 +1,22 @@
+{
+    "name":        "myfarms/wkhtmltopdf-bin",
+    "description": "wkhtmltopdf binaries",
+
+    "homepage":    "https://github.com/myfarms/wkhtmltopdf-bin",
+    "license": "proprietary",
+
+    "support": {
+        "email":  "administrator@myfarms.com",
+        "issues": "https://github.com/myfarms/wkhtmltopdf-bin/issues",
+        "source": "https://github.com/myfarms/wkhtmltopdf-bin"
+    },
+
+    "require": {
+    },
+
+    "autoload": {
+        "psr-0": {
+            "PhpUnitsOfMeasure": "source/"
+        }
+    }
+}
